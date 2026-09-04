@@ -1,0 +1,11 @@
+# Archivos del sistema y temporales
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Node (por si usan herramientas locales)
+node_modules/
+dist/
+build/

@@ -1,0 +1,27 @@
+{
+  "id": "yojhan-felipe-forero-trivino",
+  "nombreCompleto": "yojhan felipe forero triviño",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación. Próximo analista de datos y desarrollador senior",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3",
+    "JavaScript"
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_instructor.svg",
+  "redes": {
+    "github": "https://github.com/yojhandev",
+    "linkedin": "https://linkedin.com/in/yojhandev",
+    "portafolio": "https://yojhandev.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "Sin mente que pensar.  Sin voluntad que romper.  Sin voz que clame por el sufrimiento.  Nacido de Dios y del Vacío.  Tú sellarás la luz cegadora que devora sus sueños.  Tú eres el Recipiente.  Tú eres el Caballero Vacío.",
+  "estado": "Listo para colaborar"
+}

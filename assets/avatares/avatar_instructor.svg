@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="gradInst" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#39A900" />
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="60" fill="url(#gradInst)" />
+  <!-- Cara y cuello -->
+  <circle cx="60" cy="46" r="23" fill="#F8D7B8" />
+  <!-- Cabello -->
+  <path d="M37 42 C37 24, 83 24, 83 42 C75 32, 45 32, 37 42 Z" fill="#2d1d0e" />
+  <!-- Gafas de instructor -->
+  <rect x="43" y="42" width="14" height="10" rx="3" fill="none" stroke="#0f172a" stroke-width="2.5" />
+  <rect x="63" y="42" width="14" height="10" rx="3" fill="none" stroke="#0f172a" stroke-width="2.5" />
+  <line x1="57" y1="47" x2="63" y2="47" stroke="#0f172a" stroke-width="2" />
+  <!-- Sonrisa -->
+  <path d="M52 58 Q60 65 68 58" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round" />
+  <!-- Cuerpo con camisa institucional y corbata/cuello -->
+  <path d="M22 108 C22 80, 40 72, 60 72 C80 72, 98 80, 98 108 Z" fill="#00324D" />
+  <polygon points="60,72 50,90 60,108 70,90" fill="#39A900" />
+  <!-- Borde exterior decorativo -->
+  <circle cx="60" cy="60" r="56" fill="none" stroke="#39A900" stroke-width="3" stroke-dasharray="6,4"/>
+</svg>

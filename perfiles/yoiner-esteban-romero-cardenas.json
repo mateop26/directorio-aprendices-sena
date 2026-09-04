@@ -1,0 +1,27 @@
+{
+  "id": "yoiner-esteban-romero-cardenas",
+  "nombreCompleto": "Yoiner Esteban Romero Cardenas",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA, desarrollo web y el aprendizaje de nuevas tecnologías de programación, proximo desarrollador fullstack.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3",
+    "JavaScript"
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_carlos.svg",
+  "redes": {
+    "github": "https://github.com/YoiDevops",
+    "linkedin": "https://linkedin.com/in/YoiDevops",
+    "portafolio": "https://YoiDevops.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "Yo solía ser un desarrollador como tú, pero entonces recibí un virus en el ordenador.",
+  "estado": "Listo para colaborar"
+}

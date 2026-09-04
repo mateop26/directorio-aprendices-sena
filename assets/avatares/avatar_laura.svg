@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="gradLaura" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="60" fill="url(#gradLaura)" />
+  <circle cx="60" cy="46" r="22" fill="#fcd34d" />
+  <!-- Cabello largo -->
+  <path d="M36 42 C36 18, 84 18, 84 42 C84 65, 80 85, 78 95 C74 75, 72 45, 60 45 C48 45, 46 75, 42 95 C40 85, 36 65, 36 42 Z" fill="#78350f" />
+  <!-- Ojos y Sonrisa -->
+  <circle cx="52" cy="46" r="2.5" fill="#1c1917" />
+  <circle cx="68" cy="46" r="2.5" fill="#1c1917" />
+  <path d="M54 56 Q60 61 66 56" fill="none" stroke="#1c1917" stroke-width="2" stroke-linecap="round" />
+  <!-- Blusa -->
+  <path d="M25 106 C25 80, 42 74, 60 74 C78 74, 95 80, 95 106 Z" fill="#312e81" />
+  <circle cx="60" cy="60" r="56" fill="none" stroke="#f472b6" stroke-width="3"/>
+</svg>

@@ -1,0 +1,29 @@
+{
+  "id": "instructor-melqui-romero",
+  "nombreCompleto": "Melqui Romero",
+  "ficha": "Instructor SENA",
+  "programa": "Línea de Tecnologías de la Información y las Comunicaciones",
+  "rol": "Instructor & Líder Técnico",
+  "biografia": "Instructor técnico apasionado por las buenas prácticas de ingeniería de software, arquitectura limpia, integración continua y el trabajo colaborativo en equipo.",
+  "habilidades": [
+    "Git & GitHub",
+    "Arquitectura de Software",
+    "JavaScript / Node.js",
+    "Python",
+    "Metodologías Ágiles (Scrum)",
+    "Bases de Datos SQL/NoSQL"
+  ],
+  "intereses": [
+    "DevOps",
+    "Inteligencia Artificial",
+    "Formación Profesional Integral"
+  ],
+  "avatar": "assets/avatares/avatar_instructor.svg",
+  "redes": {
+    "github": "https://github.com/vermqen",
+    "linkedin": "https://linkedin.com",
+    "portafolio": "https://sena.edu.co"
+  },
+  "fraseFavorita": "La práctica constante y la disciplina convierten el conocimiento en maestría.",
+  "estado": "Guiando la sesión de aprendizaje"
+}
