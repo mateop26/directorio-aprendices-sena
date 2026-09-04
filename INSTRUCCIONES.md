@@ -167,7 +167,7 @@ Para que cualquier persona (y tu instructor) pueda ver tu proyecto funcionando e
    - Selecciona la carpeta: **`/(root)`**
 4. Haz clic en **Save** (Guardar).
 5. Espera entre 1 y 2 minutos y recarga la página. Verás un mensaje en verde con tu enlace público:
-   `https://TU-USUARIO.github.io/directorio-aprendices-sena/`
+   `https://TU-USUARIO.github.io/directorio-aprendices-sena/`g
 
 ---
 
